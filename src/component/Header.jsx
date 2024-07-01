@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../image/Odisha_Tourism.webp'
+import img from '../image/mangalorelogo.png'
 import { Link } from 'react-router-dom'
 
 const Header = () => {
@@ -19,9 +19,7 @@ const Header = () => {
   return (
     <div>
       <>
-        <div className="container-fluid con">
-          <marquee>In today’s world, almost everybody chooses to travel and tourism as their leisure. Traveling is a good way to learn about the world.</marquee>
-        </div>
+       
 
       </>
       <>

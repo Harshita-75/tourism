@@ -66,14 +66,7 @@ const Package = () => {
                       <p className="hote">HOTEL PLACES</p>
 
                       <span className>
-                        <h4 style={{ color: "#fff" }}>place description</h4>
-                        <p>
-                          Lorem ipsum dolor, sit amet consectetur adipisicing
-                          elit. Harum debitis perspiciatis sed iusto eveniet
-                          neque natus quidem velit optio cumque saepe
-                          repudiandae vero, sit hic adipisci laudantium libero
-                          blanditiis animi.
-                        </p>
+                        <h4 style={{ color: "#fff" }}>Discover dreamy holiday homes in and around mangaluru</h4>
                       </span>
                     </div>
                     <div className="col-md-4">
@@ -128,7 +121,7 @@ const Package = () => {
                     <div className="col-lg-3">
                       <div className="row my-3">
                         <div className="col-sm-12 map-container-btn text-center">
-                          <a href="https://maps.app.goo.gl/9VMSJmCrocHH7LkYA">
+                          <a href="https://maps.app.goo.gl/doMxqBtrcJ3tsxS16">
                             <button
                               type="button"
                               class="btn btn-outline-primary"
@@ -406,7 +399,7 @@ const Package = () => {
                                   className="form-check-label"
                                   htmlFor="flexCheckDefault"
                                 >
-                                  Motels
+                                  Hotels
                                 </label>
                               </div>
                             </div>
